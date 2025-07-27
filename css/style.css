@@ -28,7 +28,7 @@ p {
 /* ------ Hilfsklassen ------ */
 
 .standard-container {
-    max-width: 1080px;
+    max-width: 768px;
     margin: 0 auto;
 }
 
