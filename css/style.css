@@ -270,6 +270,13 @@ p {
     color: white;
 }
 
+#contact-options a {
+    color: coral;
+}
+
+#contact-options b {
+    color: coral;
+}
 
 /* ------ Footer ------ */
 
